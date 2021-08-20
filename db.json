@@ -1,0 +1,25 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "imgsrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383279348l/18698973.jpg",
+      "bname": "Into the Storm",
+      "writer": "Angelina Aloud",
+      "value": "want to read"
+    },
+    {
+      "id": 2,
+      "imgsrc": "https://i.pinimg.com/originals/21/e5/ab/21e5abbdde0e36d212e7d1cd67ccc3b6.jpg",
+      "bname": "Sweet Thames",
+      "writer": "Mathew Kneale",
+      "value": "current"
+    },
+    {
+      "id": 3,
+      "imgsrc": "https://images.penguinrandomhouse.com/cover/9781101931288",
+      "bname": "Tess of the Road",
+      "writer": "Rachel Hartman",
+      "value": "current"
+    }
+  ]
+}
